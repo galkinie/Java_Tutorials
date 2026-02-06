@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="voyna-i-mir-tom-1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/ru/arhiser/huffman/voyna-i-mir-tom-1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
