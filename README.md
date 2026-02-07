@@ -8,12 +8,13 @@
 
 Название| Youtube                      |Исходники
 --------|------------------------------|---------
+Java. Проблема с null. Null safety.|https://www.youtube.com/watch?v=QIfIoXW1SHA| url
 01 Java. Поиск минимального элемента в массиве| https://youtu.be/J8CbZYnJ5O8 |https://github.com/Arhiser/java_tutorials/blob/master/src/ru/arhiser/minimal/Main.java
 01 Java. Search Minimal Value in Array| https://youtu.be/J8CbZYnJ5O8 |https://github.com/galkinie/Java_Tutorials/blob/master/src/com/github/galkinie/javatutorials01/sortingalgorithms/SearchMinimalValue.java
 02 Java. Сортировка пузырьком.| https://youtu.be/aXyMkR8LGEo |https://github.com/Arhiser/java_tutorials/blob/master/src/ru/arhiser/sort/BubbleSort.java
-02 Java. Sort with Bubble Sorting| https://youtu.be/aXyMkR8LGEo |
+02 Java. Sort with Bubble Sorting| https://youtu.be/aXyMkR8LGEo | url
 03 Java. Поиск файлов в папках на диске.| https://youtu.be/OaltzA7uCRY |https://github.com/Arhiser/java_tutorials/blob/master/src/ru/arhiser/file_search/files.java
-03 Java. | https://youtu.be/OaltzA7uCRY |
+03 Java. | https://youtu.be/OaltzA7uCRY |url
  Java. О сортировке выбором.| https://youtu.be/gjzLnfYc48w |https://github.com/Arhiser/java_tutorials/blob/master/src/ru/arhiser/sort/SelectionSort.java
  Java. Быстрая сортировка. Объяснение на пальцах)| https://youtu.be/CeHJV4zu_Ts |https://github.com/Arhiser/java_tutorials/blob/master/src/ru/arhiser/sort/QuickSort.java
  Java. Обобщенные операции со списками в функциональном стиле.| https://youtu.be/nUv2VrZugSU |https://github.com/Arhiser/java_tutorials/tree/master/src/ru/arhiser/funcops
