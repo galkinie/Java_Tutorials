@@ -17,13 +17,16 @@ public class SortWithBubbleSorting {
         while (!isSorted) {
             isSorted = true;
             for (int i = 1; i < array.length; i++) {
-                if (array[i - 1] > array[i]) {
-                    int tmp = array[i];
-                    array[i] = array[i - 1];
-                    array[i - 1] = tmp;
+                if (array[i - 1] > array[i]) { //64>42
+                    int tmp = array[i]; //tmp=42
+                    array[i] = array[i - 1]; //42:=64
+                    array[i - 1] = tmp; //64:=tmp=42
                     isSorted = false;
+                    System.out.println("i=" + i + ", " + array[i-1] + ", " + array[i]);
                 }
+
             }
+            System.out.println();
         }
         System.out.println(arrayToString(array));
     }
@@ -48,8 +51,56 @@ public class SortWithBubbleSorting {
         System.out.println("Затраченное время: " + elapsed + " ms");
     }
 }
-//java -javaagent:/home/disco/idea-IU-253.29346.240/lib/idea_rt.jar=39519 -Dfile.encoding=UTF-8 -classpath /home/disco/IdeaProjects/java_tutorials/out/production/java_tutorials com.github.galkinie.javatutorials01.sortingalgorithms.SortWithBubbleSorting
-//[16, 24, 32, 36, 41, 42, 42, 53, 55, 57, 64, 73, 74]
-//Затраченное время: 1 ms
+//i=1, 42, 64
+//i=3, 41, 73
+//i=4, 32, 73
+//i=5, 53, 73
+//i=6, 16, 73
+//i=7, 24, 73
+//i=8, 57, 73
+//i=9, 42, 73
+//i=11, 55, 74
+//i=12, 36, 74
 //
-//Process finished with exit code 0
+//i=2, 41, 64
+//i=3, 32, 64
+//i=4, 53, 64
+//i=5, 16, 64
+//i=6, 24, 64
+//i=7, 57, 64
+//i=8, 42, 64
+//i=10, 55, 73
+//i=11, 36, 73
+//
+//i=1, 41, 42
+//i=2, 32, 42
+//i=4, 16, 53
+//i=5, 24, 53
+//i=7, 42, 57
+//i=9, 55, 64
+//i=10, 36, 64
+//
+//i=1, 32, 41
+//i=3, 16, 42
+//i=4, 24, 42
+//i=6, 42, 53
+//i=8, 55, 57
+//i=9, 36, 57
+//
+//i=2, 16, 41
+//i=3, 24, 41
+//i=8, 36, 55
+//
+//i=1, 16, 32
+//i=2, 24, 32
+//i=7, 36, 53
+//
+//i=6, 36, 42
+//
+//i=5, 36, 42
+//
+//i=4, 36, 41
+//
+//
+//[16, 24, 32, 36, 41, 42, 42, 53, 55, 57, 64, 73, 74]
+//Затраченное время: 44 ms

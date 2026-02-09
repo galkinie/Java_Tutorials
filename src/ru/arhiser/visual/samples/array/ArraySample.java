@@ -43,6 +43,6 @@ public class ArraySample {
                     timer.cancel();
                 }
             }
-        }, 0, 1);
+        }, 0, 30);
     }
 }
