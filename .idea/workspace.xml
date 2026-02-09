@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b6ca200-1b1d-4b1d-857d-9e048d62b5bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/immutableclasses/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/immutableclasses/ImmutableWithMutableCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/immutableclasses/ImmutableWithMutableFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/AirBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/ObjectOrientedProgrammingApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/fluentinterface/FluentInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/fluentinterface/FluentInterfaceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/iteratoranditerable/MainDelete1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/iteratoranditerable/MainIteration1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/iteratoranditerable/MainRangeIterable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/iteratoranditerable/MainSortIter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/sortingalgorithms/SortWithBubbleSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/sortingalgorithms/SortWithBubbleSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/samples/array/ArraySample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arhiser/visual/samples/array/ArraySample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +33,7 @@
   "keyToString": {
     "Application.ArraySample.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.ConcurrencyVsParallelismApp.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.FutureMain.executor": "Run",
     "Application.ImmutableClass.executor": "Run",
@@ -64,6 +45,7 @@
     "Application.MainRangeIterable.executor": "Run",
     "Application.MainSortIter.executor": "Run",
     "Application.Minimal.executor": "Run",
+    "Application.MyThread.executor": "Run",
     "Application.NullSafety01.executor": "Run",
     "Application.ObjectOrientedProgrammingApp.executor": "Run",
     "Application.QuickSort.executor": "Run",
@@ -71,6 +53,8 @@
     "Application.SearchMinimalValue.executor": "Run",
     "Application.SelectionSort.executor": "Run",
     "Application.SortWithBubbleSorting.executor": "Run",
+    "Application.SumUpExampleApp.executor": "Run",
+    "Application.ThreadDemoUnsafe.executor": "Run",
     "Application.files.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -86,16 +70,17 @@
     "last_opened_file_path": "/home/disco/IdeaProjects/java_tutorials",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.galkinie.javatutorials01.elenacodes.concurrencyvsparallelism" />
       <recent name="com.github.galkinie.javatutorials01.elenacodes.objectorientedprogramming" />
       <recent name="com.github.galkinie.javatutorials01.iteratoranditerable" />
       <recent name="com.github.galkinie.javatutorials01.fluentinterface" />
       <recent name="com.github.galkinie.javatutorials01.nullsafety" />
-      <recent name="com.github.galkinie.javatutorials01.filessearch" />
     </key>
   </component>
   <component name="RunManager">
@@ -134,5 +119,12 @@
       <updated>1770046749804</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="thread1" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
