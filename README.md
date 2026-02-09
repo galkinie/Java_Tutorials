@@ -3,6 +3,7 @@
 --------|---------------------------------------|---------
 _Первый шаг в ООП Все, что вам нужно знать|https://www.youtube.com/watch?v=hW2D97dm5Ac |src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming
 _Immutable Class Подготовка к Java-интервью [3Rkp8DZjsY0]| https://www.youtube.com/watch?v=3Rkp8DZjsY0 | src/com/github/galkinie/javatutorials01/elenacodes/immutableclasses
+_Зачем нужна многозадачность Concurrency vs Parallelism в действии [BI1MjxEiYa8] | https://www.youtube.com/watch?v=BI1MjxEiYa8 | 
 _001 Java. Проблема с null. Null safety.| https://www.youtube.com/watch?v=QIfIoXW1SHA |https://github.com/galkinie/Java_Tutorials/blob/master/src/com/github/galkinie/javatutorials01/nullsafety/NullSafety01.java
 _002 Java. Fluent Interface.|https://www.youtube.com/watch?v=cKHcQ3ME2Cw|src/com/github/galkinie/javatutorials01/fluentinterface
 _003 Java. Об Iterator и Iterable c примерами.|https://www.youtube.com/watch?v=LG-q2VBUSCw| src/com/github/galkinie/javatutorials01/iteratoranditerable

@@ -5,6 +5,16 @@
       <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/immutableclasses/BankAccount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/immutableclasses/ImmutableWithMutableCollection.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/immutableclasses/ImmutableWithMutableFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/AirBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/ObjectOrientedProgrammingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Transport.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/fluentinterface/FluentInterface.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/fluentinterface/FluentInterfaceClient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/iteratoranditerable/MainDelete1.java" afterDir="false" />
