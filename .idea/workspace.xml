@@ -1,8 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6b6ca200-1b1d-4b1d-857d-9e048d62b5bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OutFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-24.0.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-24.0.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-24.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/BasicTryCatchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/BasicTryCatchFinallyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/BasicTryWithResourcesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/ListOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/ListOfNumbersTryCatchFinallyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/MultiCatchSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptionsthrowing/AccessingStackTraceInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo1/Demo2Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo1/Demo3ParallelStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo2/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo2/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo2/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo3/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo3/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo3/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo4/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo4/Demo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo6/Demo18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo6/Demo19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo6/Demo20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo6/Demo21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo7/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo7/Demo22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo7/Demo23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo7/Demo24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo7/Demo25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/enable-plugin-java-stream-debugger.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_tutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/concurrencyvsparallelism/ConcurrencyVsParallelismApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/ConcurrencyVsParallelismApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/concurrencyvsparallelism/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/concurrencyvsparallelism/SumUpExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/SumUpExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/concurrencyvsparallelism/SumUpExampleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/SumUpExampleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/concurrencyvsparallelism/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/concurrencyvsparallelism/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/concurrencyvsparallelism/ThreadDemoUnsafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/ThreadDemoUnsafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/concurrencyvsparallelism/ThreadDemoUnsafeCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/ThreadDemoUnsafeCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/concurrencyvsparallelism/ThreadDemoUnsafeLambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/ThreadDemoUnsafeLambdas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/immutableclasses/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/immutableclasses/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/immutableclasses/ImmutableWithMutableCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/immutableclasses/ImmutableWithMutableCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/immutableclasses/ImmutableWithMutableFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/immutableclasses/ImmutableWithMutableFields.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/AirBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/AirBus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Boat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/ObjectOrientedProgrammingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/ObjectOrientedProgrammingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/elenacodes/objectorientedprogramming/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/nullsafety/NullSafety01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/nullsafety/NullSafety01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +98,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArraySample.executor": "Run",
+    "Application.BasicTryCatchExample.executor": "Run",
+    "Application.BasicTryCatchFinallyExample.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.ConcurrencyVsParallelismApp.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.Demo1.executor": "Run",
+    "Application.Demo2.executor": "Run",
+    "Application.Demo3ParallelStream.executor": "Run",
+    "Application.Demo4.executor": "Run",
+    "Application.Demo5.executor": "Run",
+    "Application.Demo6.executor": "Run",
     "Application.FutureMain.executor": "Run",
     "Application.ImmutableClass.executor": "Run",
     "Application.ImmutableWithMutableCollection.executor": "Run",
@@ -43,6 +119,7 @@
     "Application.MainRangeIterable.executor": "Run",
     "Application.MainSortIter.executor": "Run",
     "Application.Minimal.executor": "Run",
+    "Application.MultiCatchSample.executor": "Run",
     "Application.MyThread.executor": "Run",
     "Application.NullSafety01.executor": "Run",
     "Application.ObjectOrientedProgrammingApp.executor": "Run",
@@ -53,19 +130,21 @@
     "Application.SortWithBubbleSorting.executor": "Run",
     "Application.SumUpExampleApp.executor": "Run",
     "Application.ThreadDemoUnsafe.executor": "Run",
+    "Application.TryCatchFinallyExample.executor": "Run",
     "Application.files.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
+    "Downloaded.Files.Path.Enabled": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/disco/IdeaProjects/java_tutorials",
+    "last_opened_file_path": "/home/work/IdeaProjects/Java_Tutorials",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -100,13 +179,6 @@
         <item itemvalue="Application.Minimal" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

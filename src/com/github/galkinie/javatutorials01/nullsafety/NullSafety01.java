@@ -51,10 +51,10 @@ public class NullSafety01 {
         testList.add(1); testList.add(2);
         testList.add(3); testList.add(4);
         SuperList<Integer> superList = new SuperList<>(testList);
-        superList.mySuerFunction();
+        superList.mySuperFunction();
         //4
         testList.clear();
-        superList.mySuerFunction();
+        superList.mySuperFunction();
 
         SuperList<Integer> superList2 = new SuperList<>();
         //superList2.mySuerFunction();
@@ -63,7 +63,7 @@ public class NullSafety01 {
         //	at com.github.galkinie.javatutorials01.nullsafety.NullSafety01.main(NullSafety01.java:59)
 
         SuperList3<Integer> superList3 = new SuperList3<>();
-        superList3.mySuerFunction();
+        superList3.mySuperFunction();
         //0
 
 
@@ -105,7 +105,7 @@ public class NullSafety01 {
         public SuperList3() {
         }
 
-        public void mySuerFunction() {
+        public void mySuperFunction() {
             System.out.println(internalList.size());
         }
     }
@@ -124,7 +124,7 @@ public class NullSafety01 {
         public SuperList() {
         }
 
-        public void mySuerFunction() {
+        public void mySuperFunction() {
             System.out.println(internalList.size());
         }
     }
