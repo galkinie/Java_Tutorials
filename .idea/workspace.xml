@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6b6ca200-1b1d-4b1d-857d-9e048d62b5bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_tutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/nullsafety/NullSafety01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/nullsafety/NullSafety01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +36,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArraySample.executor": "Run",
+    "Application.BasicTryCatchExample.executor": "Run",
+    "Application.BasicTryCatchFinallyExample.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.ConcurrencyVsParallelismApp.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.Demo1.executor": "Run",
+    "Application.Demo2.executor": "Run",
+    "Application.Demo3ParallelStream.executor": "Run",
+    "Application.Demo4.executor": "Run",
+    "Application.Demo5.executor": "Run",
+    "Application.Demo6.executor": "Run",
     "Application.FutureMain.executor": "Run",
     "Application.ImmutableClass.executor": "Run",
     "Application.ImmutableWithMutableCollection.executor": "Run",
@@ -45,6 +57,7 @@
     "Application.MainRangeIterable.executor": "Run",
     "Application.MainSortIter.executor": "Run",
     "Application.Minimal.executor": "Run",
+    "Application.MultiCatchSample.executor": "Run",
     "Application.MyThread.executor": "Run",
     "Application.NullSafety01.executor": "Run",
     "Application.ObjectOrientedProgrammingApp.executor": "Run",
@@ -55,19 +68,21 @@
     "Application.SortWithBubbleSorting.executor": "Run",
     "Application.SumUpExampleApp.executor": "Run",
     "Application.ThreadDemoUnsafe.executor": "Run",
+    "Application.TryCatchFinallyExample.executor": "Run",
     "Application.files.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
+    "Downloaded.Files.Path.Enabled": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/disco/IdeaProjects/java_tutorials",
+    "last_opened_file_path": "/home/work/IdeaProjects/Java_Tutorials",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -102,13 +117,6 @@
         <item itemvalue="Application.Minimal" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
