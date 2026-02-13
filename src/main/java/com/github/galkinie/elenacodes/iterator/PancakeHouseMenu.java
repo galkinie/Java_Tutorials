@@ -4,6 +4,9 @@
 package com.github.galkinie.elenacodes.iterator;
 
 
+import com.github.galkinie.elenacodes.iterator.pattern.IteratorMy;
+import com.github.galkinie.elenacodes.iterator.pattern.PancakeHouseIterator;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -11,7 +14,7 @@ public class PancakeHouseMenu {
     List<MenuItem> menuItems;
 
     public PancakeHouseMenu() {
-        menuItems = new ArrayList<MenuItem>();
+        menuItems = new ArrayList<>();
         addItem("name1", "item1", true, 299);
         addItem("name2", "item2", false, 299);
         addItem("name3", "item3", true, 349);
@@ -24,9 +27,15 @@ public class PancakeHouseMenu {
         menuItems.add(menuItem);
     }
 
-    public List<MenuItem> getMenuItems() {
-        return menuItems;
-    }
+    /**
+     * changing this class to work with IteratorMy
+     */
+//    public List<MenuItem> getMenuItems() {
+//        return menuItems;
+//    }
 
+    public IteratorMy createIterator() {
+        return new PancakeHouseIterator(menuItems);
+    }
 
 }

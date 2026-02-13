@@ -6,221 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b6ca200-1b1d-4b1d-857d-9e048d62b5bb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_tutorials.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/BasicTryCatchExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/BasicTryCatchFinallyExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/BasicTryWithResourcesExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/ListOfNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/ListOfNumbersTryCatchFinallyExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptions/MultiCatchSample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/dev/java/learn/exceptionsthrowing/AccessingStackTraceInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/ConcurrencyVsParallelismApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/SumUpExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/SumUpExampleApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/Task.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/ThreadDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/ThreadDemoUnsafe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/ThreadDemoUnsafeCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/concurrencyvsparallelism/ThreadDemoUnsafeLambdas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/immutableclasses/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/immutableclasses/ImmutableWithMutableCollection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/immutableclasses/ImmutableWithMutableFields.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/AirBus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Airplane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Boat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/ObjectOrientedProgrammingApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/objectorientedprogramming/Transport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo1/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo1/Demo2Stream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo1/Demo3ParallelStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo2/Demo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo2/Demo5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo2/Demo6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo3/Demo7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo3/Demo8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo3/Demo9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo4/Demo10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo4/Demo11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo5/Demo17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo6/Demo18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo6/Demo19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo6/Demo20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo6/Demo21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo7/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo7/Demo22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo7/Demo23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo7/Demo24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/elenacodes/streamapi/demo7/Demo25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/fluentinterface/FluentInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/fluentinterface/FluentInterfaceClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/iteratoranditerable/MainDelete1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/iteratoranditerable/MainIteration1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/iteratoranditerable/MainRangeIterable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/iteratoranditerable/MainSortIter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/nullsafety/NullSafety01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/nullsafety/NullSafetyClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/searchfiles/SearchFiles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/sortingalgorithms/SearchMinimalValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/galkinie/javatutorials01/sortingalgorithms/SortWithBubbleSorting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/enable-plugin-java-stream-debugger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/bitops/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/calculus/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/dithering/IMG_20180824_121235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/dithering/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/dithering/bw_dithering.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/dithering/out_bw_noised.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/dithering/out_gray_noised.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/equals/Equals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/equals/Equals2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/equals/Equals3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/equals/Equals4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/file_search/files.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/fract_noise/FractalNoise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/fract_noise/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/fract_noise/Noise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/fract_noise/Random.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/FuncUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/inter/Action1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/inter/Func0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/inter/Func1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/inter/Func2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/inter/Func3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/monad/FutureMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/monad/LazyMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/monad/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/funcops/monad/OptionalMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman/compressed.huf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman/decompressed.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman/voyna-i-mir-tom-1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman/voyna-i-mir-tom-1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman_adapt/digital/BitBuffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman_adapt/digital/BitToByteWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman_adapt/digital/CodeTreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman_adapt/digital/CoderTestApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman_adapt/digital/EncodingModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman_adapt/digital/EncodingModelRefreshing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman_adapt/digital/EncodingModelSimple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman_adapt/digital/HuffmanDecoderStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman_adapt/digital/HuffmanEncoderStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/huffman_adapt/digital/TestMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/imageprocess2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/imageprocess2/photo_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/iterator/MainDelete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/iterator/MainIteration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/iterator/MainRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/iterator/MainSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/knapsack/MainBruteforce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/knapsack/MainDynamic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/knapsack/MainGreedy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/linkedlist/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/minimal/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/minimal/Minimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/deadlock/Deadlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/deadlock/DeadlockComplex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/parallel2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/parallel2/ParallelForkJoin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/parallel2/ParallelNaive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/parallel2/ParallelRight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/parallel2/Single.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/parallel2/photo_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/queue/BlockingQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/queue/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/stop/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/multithreading/synchro/Syncro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/parser/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/parserfunc/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/prefix_tree/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/prefix_tree/numbers.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/prefix_tree/tree.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/prefix_tree/tree_formatted.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/primenums/Eratosfen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/primenums/PrimeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/primenums/Random.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/primenums/visual/EratosfenComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/primenums/visual/GraphMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/search/Search.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/second_minimal/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/bogo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/comb/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/comb/BubbleSortKnuth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/comb/CombSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/comb/PerformanceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/comb/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/comparator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/count/CountSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/count/CountSortObjects.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/sort/insertion/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stack/BlockingQueueSample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stack/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stack/SimpleQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stack/SimpleStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stack/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stack/StackTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stars/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stars/Model.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stars/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stars/Render.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stars/file_render/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stars/file_render/Model.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stars/file_render/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/stars/file_render/Render.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/string_search/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/time/Calendars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/time/Dateformat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/time/Dates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/time/Millis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/tree1/tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/tree2/Tree2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/tree2/graph/GraphMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/tree2/graph/model/GraphModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/tree2/graph/model/GraphNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/tree2/graph/view/FieldComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/tree3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/tree3/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/animator/Animator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/animator/AnimatorGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/animator/AnimatorSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/animator/PropertyAnimator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/animator/evaluator/IntLinearEvaluator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/animator/evaluator/RGBLinearEvaluator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/drawable/DrawableGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/drawable/DrawableObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/drawable/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/scene/AnimationProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/engine/scene/Scene.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/impl/IntArrayDrawable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/raster/Raster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/raster/RasterWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/samples/array/ArraySample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/samples/array/BubbleSortAnimationProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/samples/array/CombSortAnimationProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/samples/array/InsertionSortAnimationProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/samples/array/QuickSortAnimationProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/samples/array/RasterFileWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/samples/array/SelectionSortAnimationProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/visual/samples/array/SortAnimationRecorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/galkinie/elenacodes/iterator/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/galkinie/elenacodes/iterator/PancakeHouseMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,6 +78,7 @@
     "Application.MainIteration1.executor": "Run",
     "Application.MainRangeIterable.executor": "Run",
     "Application.MainSortIter.executor": "Run",
+    "Application.MenuTestDrive.executor": "Run",
     "Application.Minimal.executor": "Run",
     "Application.MultiCatchSample.executor": "Run",
     "Application.MyThread.executor": "Run",
@@ -355,6 +142,13 @@
         <item itemvalue="Application.Minimal" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
